@@ -1,7 +1,7 @@
 # **Python**蔡英文facebook主页分析(by神奇的战士)
 
 - 博客地址：[https://wangshub.github.io/](https://wangshub.github.io/)
-- 公众号：舒林笑笑生
+- 公众号：神奇的战士
 - 拒绝转载
 
 用[Facebook Graph API](https://developers.facebook.com/tools/explorer/?method=GET&path=tsaiingwen%2Fposts&version=v2.11)和情绪分析API对蔡英文Facebook主页进行统计分析。
